@@ -1,0 +1,27 @@
+body 
+   { 
+      font-family: 'Varela Round', Verdana, Arial, sans-serif;
+      width: 80%;
+      padding: 20px;
+      border-radius: 10px;
+      margin: 0 auto;
+      background-color: #E1EDEB;
+      box-shadow: 10px 10px 10px rgba(0,0,0,.5);
+   }
+h1 
+   { 
+     color: white; 
+     background-color: navy; 
+   }
+h1:hover 
+   { 
+     color: navy; 
+     background-color: lightgray; 
+     transition: all 500ms ease-in-out; 
+   }
+h2 
+   { 
+     color: green; 
+     margin-left: 40px ; 
+     border-bottom: 4px dotted black;
+   }

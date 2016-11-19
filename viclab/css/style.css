@@ -1,0 +1,130 @@
+<style>
+#header {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+#section_speech {
+    line-height:5px;
+    margin-top: 5px;
+    margin-left: 60px;
+    width: 50%;
+    float:left;
+    padding:5px;
+    overflow:auto;
+    background-color: #CADCD7;
+}
+
+#nav {
+    line-height:30px;
+    height:400px;
+    width:15%;
+    float:left;
+    padding:5px;
+    overflow:auto;
+    background-color: #CADCD7;
+}
+#section {
+    width:80%;
+    float:left;
+    padding:10px;
+}
+#footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px;
+}
+#nav_content
+{
+  overflow:auto;
+  background-color: #CADCD7;
+}
+#section_content
+{
+  background-color: #E1EDEB;
+  overflow:auto;
+  padding:10px;
+}
+p.small 
+{
+    line-height: 30px;
+}
+p.big 
+{
+    line-height: 60px;
+}
+td {
+  text-align: center;
+}
+th {
+  text-align: center;
+}
+
+h3 
+   { 
+     color: #616362; 
+     background-color: ; 
+     margin-top: 0px;
+     margin-bottom: 0px;
+   }
+h3:hover 
+   { 
+     color: black; 
+     background-color: #9FBDB5; 
+     transition: all 250ms ease-in-out; 
+   }    
+
+h4 
+   { 
+     color: #0B045C; 
+     background-color: ; 
+     margin-top: 0px;
+     margin-bottom: 0px;
+   }
+h4:hover 
+   { 
+     color: navy; 
+     background-color: lightgray; 
+     transition: all 250ms ease-in-out; 
+   }    
+
+table {
+  margin-left: 60px;
+  background-color: gray;
+  width: 800px;
+}
+iframe {
+  width: 100%;
+  margin-top: 1px;
+  background-color: #E1EDEB;
+}
+body 
+   { 
+      font-family: 'Varela Round', Verdana, Arial, sans-serif;
+      width: 100%;
+      padding: 10px;
+      border-radius: 10px;
+      margin: 0 auto;
+      background-color: white;
+      box-shadow: 10px 10px 10px rgba(0,0,0,.5);
+   }
+h1 
+   { 
+     color: white; 
+     background-color: navy; 
+   }
+h2 
+   { 
+     color: #0B045C; 
+   }
+h2:hover
+   {
+     color: navy;
+     background-color: lightgray;
+     transition: all 500ms ease-in-out;
+   }
+
+</style>
